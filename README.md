@@ -30,5 +30,6 @@ you can do the map now!
 
 This is my result:
 
-![Screenshot from 2021-06-24 03-49-05](https://user-images.githubusercontent.com/46565265/123185900-a5b62b80-d49f-11eb-8789-82322feaf162.png)
+  ![Screenshot from 2021-06-24 03-49-05](https://user-images.githubusercontent.com/46565265/123185900-a5b62b80-d49f-11eb-8789-82322feaf162.png)
+  ![Screenshot from 2021-06-24 00-22-37](https://user-images.githubusercontent.com/46565265/123186475-e793a180-d4a0-11eb-8102-ffd3e28f2084.png)
 
