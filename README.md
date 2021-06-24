@@ -31,5 +31,5 @@ after that choose Gazebo simulation then SLAM simulation from simulation list an
 you can do the map now!
 
 this is my result:
-
+![Screenshot from 2021-06-24 03-49-05](https://user-images.githubusercontent.com/46565265/123185900-a5b62b80-d49f-11eb-8789-82322feaf162.png)
 
